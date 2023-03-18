@@ -1,0 +1,289 @@
+***** 2023/03/18 13:52:03 *****
+QE Version                                        :3.2.0.v20230116-0619
+Project Path                                      :C:\Users\slash\e2_studio_2023_01\workspace\ra2l1_touch_test
+Configuration File                                :quickstart_rssk_ra2l1_ep
+IDE                                               :e2 studio with Emulator
+Emulator                                          :
+MCU                                               :RA2L1 R7FA2L1AB2DFP
+<< METHOD 0 >>
+[Button(self) 0]
+TS                                                : TS12,
+[Button(self) 1]
+TS                                                : TS27,
+[Button(self) 2]
+TS                                                : TS11,
+[Shield Pin 5]
+TS                                                : TS10,
+<< METHOD 1 >>
+[Slider 3]
+TS                                                : TS09, TS02, TS05, TS00, TS04,
+[Shield Pin 6]
+TS                                                : TS08,
+<< METHOD 2 >>
+[Wheel 4]
+TS                                                : TS30, TS31, TS32, TS33,
+[Shield Pin 7]
+TS                                                : TS16,
+
+<<<< Tuning Type : Normal >>>>
+System Clock Frequency (MHz)                      :48.000
+PCLKB Frequency (MHz)                             :24.000
+CTSU Operating Frequency (MHz)                    :24.000
+Operating Voltage (V)                             :3.300
+
+---------- Phase1 ----------
+<< METHOD 0 >>
+[TS10]
+Count Value                                       : 15935
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 110.65972
+Sensor Drive Pulse Frequency (MHz)                : -
+
+[TS11]
+Count Value                                       : 12002
+Resistance Value (ohm)                            : 200
+Parasitic Capacitance (pF)                        : 83.34722
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS12]
+Count Value                                       : 8861
+Resistance Value (ohm)                            : 200
+Parasitic Capacitance (pF)                        : 61.53472
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS27]
+Count Value                                       : 8928
+Resistance Value (ohm)                            : 200
+Parasitic Capacitance (pF)                        : 62.0
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+<< METHOD 1 >>
+[TS00]
+Count Value                                       : 8889
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 61.729168
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS02]
+Count Value                                       : 8795
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 61.07639
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS04]
+Count Value                                       : 9053
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 62.868057
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS05]
+Count Value                                       : 8830
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 61.319443
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS08]
+Count Value                                       : 8709
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 60.479168
+Sensor Drive Pulse Frequency (MHz)                : -
+
+[TS09]
+Count Value                                       : 12287
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 85.326385
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+<< METHOD 2 >>
+[TS16]
+Count Value                                       : 9034
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 62.73611
+Sensor Drive Pulse Frequency (MHz)                : -
+
+[TS30]
+Count Value                                       : 9763
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 67.798615
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS31]
+Count Value                                       : 9584
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 66.55556
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS32]
+Count Value                                       : 9460
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 65.69444
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+[TS33]
+Count Value                                       : 9456
+Resistance Value (ohm)                            : 560
+Parasitic Capacitance (pF)                        : 65.666664
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+
+
+---------- Phase2 ----------
+<< METHOD 0 >>
+[TS11]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 538
+
+[TS12]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 366
+
+[TS27]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 370
+
+<< METHOD 1 >>
+[TS00]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 368
+
+[TS02]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 363
+
+[TS04]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 376
+
+[TS05]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 365
+
+[TS09]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 548
+
+<< METHOD 2 >>
+[TS30]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 416
+
+[TS31]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 406
+
+[TS32]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 399
+
+[TS33]
+Sensor Drive Pulse Frequency (MHz)                : 0.5
+CTSUSNUM                                          : 15
+CTSUSDPA                                          : 31
+CTSUSO                                            : 398
+
+
+---------- Phase3 ----------
+<< METHOD 0 >>
+[Button(self) 0]
+  << TS12 >>
+  Count Value (Off)                               : 6252
+  Count Value (On)                                : 6248
+  Threshold                                       : 65535
+  Hysteresis                                      : 3276
+
+[Button(self) 1]
+  << TS27 >>
+  Count Value (Off)                               : 6248
+  Count Value (On)                                : 6246
+  Threshold                                       : 65535
+  Hysteresis                                      : 3276
+
+[Button(self) 2]
+  << TS11 >>
+  Count Value (Off)                               : 6214
+  Count Value (On)                                : 6142
+  Threshold                                       : 65535
+  Hysteresis                                      : 3276
+
+<< METHOD 1 >>
+[Slider 3]
+Count Value (Off Min)                             : 6222
+Count Value (Off Max)                             : 6280
+Count Value (On Min)                              : 6188
+Count Value (On Max)                              : 6634
+Threshold                                         : 223
+  << TS09 >>
+  Count Value (Off)                               : 6280
+  Count Value (On Min)                            : 6222
+  Count Value (On Max)                            : 6634
+  Difference (On)                                 : 412
+  << TS02 >>
+  Count Value (Off)                               : 6238
+  Count Value (On Min)                            : 6190
+  Count Value (On Max)                            : 6256
+  Difference (On)                                 : 66
+  << TS05 >>
+  Count Value (Off)                               : 6222
+  Count Value (On Min)                            : 6188
+  Count Value (On Max)                            : 6322
+  Difference (On)                                 : 134
+  << TS00 >>
+  Count Value (Off)                               : 6238
+  Count Value (On Min)                            : 6200
+  Count Value (On Max)                            : 6520
+  Difference (On)                                 : 320
+  << TS04 >>
+  Count Value (Off)                               : 6238
+  Count Value (On Min)                            : 6206
+  Count Value (On Max)                            : 6374
+  Difference (On)                                 : 168
+
+<< METHOD 2 >>
+[Wheel 4]
+Count Value (Off Min)                             : 6186
+Count Value (Off Max)                             : 6240
+Count Value (On Min)                              : 6182
+Count Value (On Max)                              : 6634
+Threshold                                         : 226
+  << TS30 >>
+  Count Value (Off)                               : 6218
+  Count Value (On Min)                            : 6204
+  Count Value (On Max)                            : 6560
+  Difference (On)                                 : 356
+  << TS31 >>
+  Count Value (Off)                               : 6186
+  Count Value (On Min)                            : 6182
+  Count Value (On Max)                            : 6634
+  Difference (On)                                 : 452
+  << TS32 >>
+  Count Value (Off)                               : 6234
+  Count Value (On Min)                            : 6210
+  Count Value (On Max)                            : 6522
+  Difference (On)                                 : 312
+  << TS33 >>
+  Count Value (Off)                               : 6240
+  Count Value (On Min)                            : 6222
+  Count Value (On Max)                            : 6508
+  Difference (On)                                 : 286
+

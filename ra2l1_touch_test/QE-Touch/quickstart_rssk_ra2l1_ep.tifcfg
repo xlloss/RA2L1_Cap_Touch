@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ConfigurationInfoTable>
+    
+  <Version>2.2</Version>
+    
+  <McuName>R7FA2L1AB2DFP</McuName>
+    
+  <McuGroup>RA2L1</McuGroup>
+    
+  <TemplateInfoTable>
+        
+    <Comment/>
+        
+    <TouchIFSetting>
+            
+      <ID>0</ID>
+            
+      <HintID>0</HintID>
+            
+      <Label>Button00</Label>
+            
+      <Type>1</Type>
+            
+      <Direction>1</Direction>
+            
+      <Rectangle>
+                
+        <X>375</X>
+                
+        <Y>55</Y>
+                
+        <Width>50</Width>
+                
+        <Height>50</Height>
+              
+      </Rectangle>
+            
+      <TsInfo>
+                
+        <Number>12</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <CFC>0</CFC>
+          
+    </TouchIFSetting>
+        
+    <TouchIFSetting>
+            
+      <ID>1</ID>
+            
+      <HintID>1</HintID>
+            
+      <Label>Button01</Label>
+            
+      <Type>1</Type>
+            
+      <Direction>1</Direction>
+            
+      <Rectangle>
+                
+        <X>375</X>
+                
+        <Y>140</Y>
+                
+        <Width>50</Width>
+                
+        <Height>50</Height>
+              
+      </Rectangle>
+            
+      <TsInfo>
+                
+        <Number>27</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <CFC>0</CFC>
+          
+    </TouchIFSetting>
+        
+    <TouchIFSetting>
+            
+      <ID>2</ID>
+            
+      <HintID>2</HintID>
+            
+      <Label>Button02</Label>
+            
+      <Type>1</Type>
+            
+      <Direction>1</Direction>
+            
+      <Rectangle>
+                
+        <X>375</X>
+                
+        <Y>225</Y>
+                
+        <Width>50</Width>
+                
+        <Height>50</Height>
+              
+      </Rectangle>
+            
+      <TsInfo>
+                
+        <Number>11</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <CFC>0</CFC>
+          
+    </TouchIFSetting>
+        
+    <TouchIFSetting>
+            
+      <ID>3</ID>
+            
+      <HintID>0</HintID>
+            
+      <Label>Slider00</Label>
+            
+      <Type>3</Type>
+            
+      <Direction>2</Direction>
+            
+      <Rectangle>
+                
+        <X>180</X>
+                
+        <Y>285</Y>
+                
+        <Width>150</Width>
+                
+        <Height>50</Height>
+              
+      </Rectangle>
+            
+      <TsInfo>
+                
+        <Number>4</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <TsInfo>
+                
+        <Number>0</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <TsInfo>
+                
+        <Number>5</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <TsInfo>
+                
+        <Number>2</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <TsInfo>
+                
+        <Number>9</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <CFC>0</CFC>
+          
+    </TouchIFSetting>
+        
+    <TouchIFSetting>
+            
+      <ID>4</ID>
+            
+      <HintID>0</HintID>
+            
+      <Label>Wheel00</Label>
+            
+      <Type>5</Type>
+            
+      <Direction>6</Direction>
+            
+      <Rectangle>
+                
+        <X>180</X>
+                
+        <Y>55</Y>
+                
+        <Width>150</Width>
+                
+        <Height>150</Height>
+              
+      </Rectangle>
+            
+      <TsInfo>
+                
+        <Number>30</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <TsInfo>
+                
+        <Number>31</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <TsInfo>
+                
+        <Number>32</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <TsInfo>
+                
+        <Number>33</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <CFC>0</CFC>
+          
+    </TouchIFSetting>
+        
+    <TouchIFSetting>
+            
+      <ID>5</ID>
+            
+      <HintID>0</HintID>
+            
+      <Label>Shield00</Label>
+            
+      <Type>11</Type>
+            
+      <Direction>1</Direction>
+            
+      <Rectangle>
+                
+        <X>450</X>
+                
+        <Y>120</Y>
+                
+        <Width>90</Width>
+                
+        <Height>90</Height>
+              
+      </Rectangle>
+            
+      <TsInfo>
+                
+        <Number>10</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <CFC>0</CFC>
+          
+    </TouchIFSetting>
+        
+    <TouchIFSetting>
+            
+      <ID>6</ID>
+            
+      <HintID>1</HintID>
+            
+      <Label>Shield01</Label>
+            
+      <Type>11</Type>
+            
+      <Direction>1</Direction>
+            
+      <Rectangle>
+                
+        <X>70</X>
+                
+        <Y>265</Y>
+                
+        <Width>90</Width>
+                
+        <Height>90</Height>
+              
+      </Rectangle>
+            
+      <TsInfo>
+                
+        <Number>8</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <CFC>0</CFC>
+          
+    </TouchIFSetting>
+        
+    <TouchIFSetting>
+            
+      <ID>7</ID>
+            
+      <HintID>2</HintID>
+            
+      <Label>Shield02</Label>
+            
+      <Type>11</Type>
+            
+      <Direction>1</Direction>
+            
+      <Rectangle>
+                
+        <X>70</X>
+                
+        <Y>85</Y>
+                
+        <Width>90</Width>
+                
+        <Height>90</Height>
+              
+      </Rectangle>
+            
+      <TsInfo>
+                
+        <Number>16</Number>
+                
+        <Resistance>560</Resistance>
+                
+        <TXRX>0</TXRX>
+              
+      </TsInfo>
+            
+      <CFC>0</CFC>
+          
+    </TouchIFSetting>
+      
+  </TemplateInfoTable>
+    
+  <MethodInfoTable>
+        
+    <MethodSetting>
+            
+      <Name>config01</Name>
+            
+      <TifInfo>
+                
+        <TouchIFID>0</TouchIFID>
+                
+        <TouchIFID>1</TouchIFID>
+                
+        <TouchIFID>2</TouchIFID>
+                
+        <TouchIFID>5</TouchIFID>
+              
+      </TifInfo>
+            
+      <EnableAutoSensing>false</EnableAutoSensing>
+            
+      <EnableMultipleElectrodeConnection>false</EnableMultipleElectrodeConnection>
+          
+    </MethodSetting>
+        
+    <MethodSetting>
+            
+      <Name>config02</Name>
+            
+      <TifInfo>
+                
+        <TouchIFID>3</TouchIFID>
+                
+        <TouchIFID>6</TouchIFID>
+              
+      </TifInfo>
+            
+      <EnableAutoSensing>false</EnableAutoSensing>
+            
+      <EnableMultipleElectrodeConnection>false</EnableMultipleElectrodeConnection>
+          
+    </MethodSetting>
+        
+    <MethodSetting>
+            
+      <Name>config03</Name>
+            
+      <TifInfo>
+                
+        <TouchIFID>4</TouchIFID>
+                
+        <TouchIFID>7</TouchIFID>
+              
+      </TifInfo>
+            
+      <EnableAutoSensing>false</EnableAutoSensing>
+            
+      <EnableMultipleElectrodeConnection>false</EnableMultipleElectrodeConnection>
+          
+    </MethodSetting>
+      
+  </MethodInfoTable>
+  
+  <ParameterDataTable>
+    <TunedData>
+      <MethodID>0</MethodID>
+      <TouchIFID>0</TouchIFID>
+      <TouchIFType>1</TouchIFType>
+      <Capacitance>61.854168</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <Threshold>65535</Threshold>
+      <Hysteresis>3276</Hysteresis>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>367</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>0</MethodID>
+      <TouchIFID>1</TouchIFID>
+      <TouchIFType>1</TouchIFType>
+      <Capacitance>62.20139</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <Threshold>4</Threshold>
+      <Hysteresis>0</Hysteresis>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>371</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>0</MethodID>
+      <TouchIFID>2</TouchIFID>
+      <TouchIFType>1</TouchIFType>
+      <Capacitance>83.645836</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <Threshold>54</Threshold>
+      <Hysteresis>2</Hysteresis>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>535</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>0</MethodID>
+      <TouchIFID>5</TouchIFID>
+      <TouchIFType>13</TouchIFType>
+      <Capacitance>111.125</Capacitance>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>0</CTSUSNUM>
+      <CTSUSO>0</CTSUSO>
+      <CTSUSDPA>0</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>1</MethodID>
+      <TouchIFID>3</TouchIFID>
+      <TouchIFType>3</TouchIFType>
+      <Threshold>385</Threshold>
+      <Hysteresis>19</Hysteresis>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>0</CTSUSNUM>
+      <CTSUSO>0</CTSUSO>
+      <CTSUSDPA>0</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>1</MethodID>
+      <TouchIFID>10000</TouchIFID>
+      <TouchIFType>4</TouchIFType>
+      <Capacitance>63.145832</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>377</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>1</MethodID>
+      <TouchIFID>10001</TouchIFID>
+      <TouchIFType>4</TouchIFType>
+      <Capacitance>62.04861</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>369</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>1</MethodID>
+      <TouchIFID>10002</TouchIFID>
+      <TouchIFType>4</TouchIFType>
+      <Capacitance>61.59722</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>365</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>1</MethodID>
+      <TouchIFID>10003</TouchIFID>
+      <TouchIFType>4</TouchIFType>
+      <Capacitance>61.319443</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>364</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>1</MethodID>
+      <TouchIFID>10004</TouchIFID>
+      <TouchIFType>4</TouchIFType>
+      <Capacitance>85.5625</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>550</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>1</MethodID>
+      <TouchIFID>6</TouchIFID>
+      <TouchIFType>13</TouchIFType>
+      <Capacitance>60.59028</Capacitance>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>0</CTSUSNUM>
+      <CTSUSO>0</CTSUSO>
+      <CTSUSDPA>0</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>2</MethodID>
+      <TouchIFID>4</TouchIFID>
+      <TouchIFType>5</TouchIFType>
+      <Threshold>259</Threshold>
+      <Hysteresis>12</Hysteresis>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>0</CTSUSNUM>
+      <CTSUSO>0</CTSUSO>
+      <CTSUSDPA>0</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>2</MethodID>
+      <TouchIFID>1000000</TouchIFID>
+      <TouchIFType>6</TouchIFType>
+      <Capacitance>68.40278</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>416</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>2</MethodID>
+      <TouchIFID>1000001</TouchIFID>
+      <TouchIFType>6</TouchIFType>
+      <Capacitance>67.00694</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>406</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>2</MethodID>
+      <TouchIFID>1000002</TouchIFID>
+      <TouchIFType>6</TouchIFType>
+      <Capacitance>65.979164</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>400</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>2</MethodID>
+      <TouchIFID>1000003</TouchIFID>
+      <TouchIFType>6</TouchIFType>
+      <Capacitance>66.013885</Capacitance>
+      <DrivePulseFrequency>0.5</DrivePulseFrequency>
+      <ScanTime>0.128</ScanTime>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>7</CTSUSNUM>
+      <CTSUSO>398</CTSUSO>
+      <CTSUSDPA>31</CTSUSDPA>
+    </TunedData>
+    <TunedData>
+      <MethodID>2</MethodID>
+      <TouchIFID>7</TouchIFID>
+      <TouchIFType>13</TouchIFType>
+      <Capacitance>63.131943</Capacitance>
+      <CTSUSSDIV>0</CTSUSSDIV>
+      <CTSUSNUM>0</CTSUSNUM>
+      <CTSUSO>0</CTSUSO>
+      <CTSUSDPA>0</CTSUSDPA>
+    </TunedData>
+    <Vcc>3.3</Vcc>
+    <AdvancedTunedData>
+      <MethodID>0</MethodID>
+      <CTSUATUNE12>1</CTSUATUNE12>
+      <CTSUPOSEL>3</CTSUPOSEL>
+      <CTSUTXVSEL>1</CTSUTXVSEL>
+    </AdvancedTunedData>
+    <AdvancedTunedData>
+      <MethodID>1</MethodID>
+      <CTSUATUNE12>1</CTSUATUNE12>
+      <CTSUPOSEL>3</CTSUPOSEL>
+      <CTSUTXVSEL>1</CTSUTXVSEL>
+    </AdvancedTunedData>
+    <AdvancedTunedData>
+      <MethodID>2</MethodID>
+      <CTSUATUNE12>1</CTSUATUNE12>
+      <CTSUPOSEL>3</CTSUPOSEL>
+      <CTSUTXVSEL>1</CTSUTXVSEL>
+    </AdvancedTunedData>
+    <MultiFrequencyMeasurement>
+      <EnableAutoCorrect>true</EnableAutoCorrect>
+    </MultiFrequencyMeasurement>
+  </ParameterDataTable>
+</ConfigurationInfoTable>
